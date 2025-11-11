@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 ```yaml
-alias: 0xShadow 
+alias: 0xShadow
 role: Security Researcher
 focus: Cybersecurity | Ethical Hacking | Network Defense
 age: 16
