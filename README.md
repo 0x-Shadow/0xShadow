@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=480&lines=HexSecGuru;Cybersecurity+Researcher;Ethical+Hacker;Developer+%7C+Learner+%7C+Builder" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=480&lines=0xShadow;Cybersecurity+Researcher;Ethical+Hacker;Developer+%7C+Learner+%7C+Builder" alt="Typing SVG">
 </div>
 
 ---
@@ -21,4 +21,5 @@ interests:
   - Penetration Testing
   - Python Security Tools
 goal: "To build secure systems — and understand how they break."
+
 
